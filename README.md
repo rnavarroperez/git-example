@@ -1,2 +1,3 @@
+
 # git-example
-An example for using git
+An example for using git with real time commands 
