@@ -8,7 +8,6 @@ contains
         implicit none
         integer, intent(in) :: age
         character(len=*), intent(out) :: response
-        real :: args
         if (age == best_age_ever) then
             response = "WOW, that's a great age"
         else

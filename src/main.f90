@@ -8,4 +8,5 @@ program hello_world
     call ask_question('how old are you?', age)
     call evaluate_age(age, response)
     call print_message(response)
+    call print_message('good bye')
 end program hello_world
