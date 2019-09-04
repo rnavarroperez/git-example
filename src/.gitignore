@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.mod
+*.o
+hello_world
